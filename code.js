@@ -1,1 +1,1 @@
-console.log("neco")
+console.log("neco");
