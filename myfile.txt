@@ -1,1 +1,3 @@
 Lokální ZMENY v main větvi. Uvidíme na servveru rozdíl.
+
+Další série změn.
