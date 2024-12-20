@@ -1,1 +1,1 @@
-Lokální úpravy v main větvi.
+Lokální ZMENY v main větvi. Uvidíme na servveru rozdíl.
