@@ -1,1 +1,0 @@
-// Toto je soubor přidaný do větve fix
